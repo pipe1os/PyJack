@@ -1,4 +1,4 @@
-# 🎴 Pyjack
+# 🃏 Pyjack
 
 A simple blackjack game written in python that you can play in your terminal.  
 
